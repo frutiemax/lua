@@ -4,6 +4,8 @@
 ** See Copyright Notice in lua.h
 */
 
+#pragma warning(disable : 4083 4310)
+
 #define lcode_c
 #define LUA_CORE
 
